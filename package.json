@@ -1,0 +1,43 @@
+{
+  "name": "quiz-arena",
+  "version": "1.1.1",
+  "private": true,
+  "type": "module",
+  "description": "QUIZ ARENA — локальная система кнопок для школьного интеллектуального турнира",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "dev": "concurrently -k -n server,web \"node --watch server/index.js\" \"vite\"",
+    "build": "tsc --noEmit && vite build",
+    "start": "node server/index.js",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "preflight": "node scripts/preflight.mjs",
+    "load": "node scripts/load-test.mjs",
+    "simulate": "node scripts/simulate.mjs"
+  },
+  "dependencies": {
+    "@fontsource-variable/inter": "^5.3.0",
+    "compression": "^1.8.2",
+    "express": "^4.22.3",
+    "lucide-react": "^1.53.0",
+    "qrcode": "^1.5.4",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "socket.io": "^4.8.4",
+    "socket.io-client": "^4.8.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/qrcode": "^1.5.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "concurrently": "^10.0.5",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.3",
+    "vitest": "^5.0.3"
+  }
+}

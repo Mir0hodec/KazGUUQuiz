@@ -1,0 +1,661 @@
+{
+  "name": "Финал",
+  "ageQuestions": {
+    "junior": [
+      {
+        "q": "Как называется национальная валюта Казахстана?",
+        "a": "Тенге / теңге / tenge",
+        "difficulty": "easy",
+        "block": 1,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1
+      },
+      {
+        "q": "Как называется человек, который открыл своё дело, например кафе или магазин?",
+        "a": "Предприниматель / предпринимательница / бизнесмен / бизнесвумен",
+        "difficulty": "easy",
+        "block": 1,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1
+      },
+      {
+        "q": "Как называется человек, который продаёт товары в магазине?",
+        "a": "Продавец / продавщица",
+        "difficulty": "easy",
+        "block": 1,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1
+      },
+      {
+        "q": "Сколько тиын в одном тенге?",
+        "a": "100 / сто / 100 тиын",
+        "difficulty": "medium",
+        "block": 1,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1
+      },
+      {
+        "q": "Как называется документ, который выдают на кассе после покупки?",
+        "a": "Чек / кассовый чек",
+        "difficulty": "medium",
+        "block": 1,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1
+      },
+      {
+        "q": "Как называются деньги, которые остаются у продавца после оплаты всех расходов?",
+        "a": "Прибыль / чистая прибыль",
+        "difficulty": "medium",
+        "block": 1,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1
+      },
+      {
+        "q": "Как называется организация, где хранят деньги и выдают кредиты?",
+        "a": "Банк",
+        "difficulty": "medium",
+        "block": 1,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1
+      },
+      {
+        "q": "Как называется обмен одного товара на другой без денег?",
+        "a": "Бартер / бартерный обмен",
+        "difficulty": "hard",
+        "block": 1,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1
+      },
+      {
+        "q": "Как называются деньги, которые человек откладывает на будущее?",
+        "a": "Сбережения / накопления",
+        "difficulty": "hard",
+        "block": 1,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1
+      },
+      {
+        "q": "Как называется сайт, где разные продавцы выставляют свои товары для онлайн-покупки?",
+        "a": "Маркетплейс / marketplace",
+        "difficulty": "hard",
+        "block": 1,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1
+      },
+      {
+        "q": "Какая это валюта?",
+        "a": "Тенге / теңге / tenge",
+        "difficulty": "easy",
+        "block": 2,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1,
+        "image": "/api/media/916e8c4f8bb6d07111b0a605e6206568b9bc44689752a611a30ca6165c2721e7.png"
+      },
+      {
+        "q": "Кто он по профессии?",
+        "a": "Кассир / кассирша",
+        "difficulty": "easy",
+        "block": 2,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1,
+        "image": "/api/media/fb128a13b96980b93548d53ccea415ba26e81cb9607aaa9d16acf46471c3f960.png"
+      },
+      {
+        "q": "Как это называется?",
+        "a": "Скидка / снижение цены",
+        "difficulty": "easy",
+        "block": 2,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1,
+        "image": "/api/media/d3815c27dd8199a52e2802fe903765b99facf6b823c5855e8cee2ca6a417cfa0.png"
+      },
+      {
+        "q": "Что это за устройство?",
+        "a": "Банкомат / ATM",
+        "difficulty": "medium",
+        "block": 2,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1,
+        "image": "/api/media/28d7734cf1558b0ea4fa9f297fea732861be9cb77625ada071ecdc43c118f921.png"
+      },
+      {
+        "q": "Что спрятано?",
+        "a": "Номер карты / номер банковской карты",
+        "difficulty": "medium",
+        "block": 2,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1,
+        "image": "/api/media/c17fb67d1ed6e7d7a4df0464ccf74bbbe15a69e039be4596b54afa3c797bd7ae.png"
+      },
+      {
+        "q": "Для чего она нужна?",
+        "a": "Накопления / сбережения / для накоплений / для сбережений / копить деньги",
+        "difficulty": "medium",
+        "block": 2,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1,
+        "image": "/api/media/bddfaaf05bccc0b75acd1dc2eed62e10b020d507d29f960159b0405c9998d3b6.png"
+      },
+      {
+        "q": "Кого не хватает на картинке?",
+        "a": "Продавец / продавца / продавщица / продавщицы",
+        "difficulty": "medium",
+        "block": 2,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1,
+        "image": "/api/media/ec4ca768df2a7de0a09f6d02a7ea2c309e42cb58b60ff6c6fcaba5e257fc1f23.png"
+      },
+      {
+        "q": "Как называется такой обмен?",
+        "a": "Бартер / бартерный обмен",
+        "difficulty": "hard",
+        "block": 2,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1,
+        "image": "/api/media/83f3554f63050f88438f86f47177c9ab6a968e9f75bec85b18fe04bf3f4e9489.png"
+      },
+      {
+        "q": "Что нужно отсканировать, чтобы оплатить?",
+        "a": "QR-код / QR / куар код / кьюар код / qr code",
+        "difficulty": "hard",
+        "block": 2,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1,
+        "image": "/api/media/d54d55bd84b78479eb9448a4d4cc3db5ce58880aa76600fde96067bf4842800f.png"
+      },
+      {
+        "q": "Какую услугу он оказывает?",
+        "a": "Доставка / доставка товаров / курьерская доставка",
+        "difficulty": "hard",
+        "block": 2,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1,
+        "image": "/api/media/bcd5bed38be4b59567281f586edbebdb435fb5911e827394aee08c90d3c46480.png"
+      }
+    ],
+    "middle": [
+      {
+        "q": "Как называются деньги, которые работник получает за свой труд?",
+        "a": "Зарплата / заработная плата",
+        "difficulty": "easy",
+        "block": 1,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1
+      },
+      {
+        "q": "Какой банк выпускает деньги в Казахстане?",
+        "a": "Национальный банк / Национальный банк Казахстана / Нацбанк / НБРК",
+        "difficulty": "easy",
+        "block": 1,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1
+      },
+      {
+        "q": "Как называется разница между доходом и расходами?",
+        "a": "Прибыль / чистая прибыль",
+        "difficulty": "easy",
+        "block": 1,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1
+      },
+      {
+        "q": "В каком году в Казахстане ввели тенге?",
+        "a": "1993 / 1993 год",
+        "difficulty": "medium",
+        "block": 1,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1
+      },
+      {
+        "q": "Как называется ситуация, когда товара в магазинах не хватает?",
+        "a": "Дефицит",
+        "difficulty": "medium",
+        "block": 1,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1
+      },
+      {
+        "q": "Расшифруйте аббревиатуру НДС.",
+        "a": "Налог на добавленную стоимость",
+        "difficulty": "medium",
+        "block": 1,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1
+      },
+      {
+        "q": "Расшифруйте аббревиатуру ИП.",
+        "a": "Индивидуальный предприниматель",
+        "difficulty": "medium",
+        "block": 1,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1
+      },
+      {
+        "q": "Как называется главная фондовая биржа Казахстана?",
+        "a": "KASE / КАСЕ / Казахстанская фондовая биржа",
+        "difficulty": "hard",
+        "block": 1,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1
+      },
+      {
+        "q": "Как называется общий рост цен в стране и обесценивание денег?",
+        "a": "Инфляция",
+        "difficulty": "hard",
+        "block": 1,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1
+      },
+      {
+        "q": "Как называют стартап, стоимость которого превысила 1 млрд долларов?",
+        "a": "Единорог / unicorn",
+        "difficulty": "hard",
+        "block": 1,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1
+      },
+      {
+        "q": "Что скрыто?",
+        "a": "Тенге / теңге / tenge / название валюты тенге",
+        "difficulty": "easy",
+        "block": 2,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1,
+        "image": "/api/media/94ed055e71e909125216256eadadcc98e0978191bcf0e8a5901a796b60cdf8cc.png"
+      },
+      {
+        "q": "Что это за приложение?",
+        "a": "Kaspi.kz / Kaspi / Каспи",
+        "difficulty": "easy",
+        "block": 2,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1,
+        "image": "/api/media/2166b76b89ee00f1f325c76e102e50b3e09de43dc25d1126736ebca89ce8a9aa.png"
+      },
+      {
+        "q": "Что означает этот знак?",
+        "a": "Скидка / снижение цены",
+        "difficulty": "easy",
+        "block": 2,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1,
+        "image": "/api/media/914e1d1901be3ef2760f76000ee51c86e74cae81614167348ee3e8e1e99b1d91.png"
+      },
+      {
+        "q": "Как называется это явление?",
+        "a": "Инфляция",
+        "difficulty": "medium",
+        "block": 2,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1,
+        "image": "/api/media/efb711cf6b8c345589aeb5e727eb9a1095dcf1677e3009c26334db92c2b228cc.png"
+      },
+      {
+        "q": "Как называется эта ситуация?",
+        "a": "Дефицит",
+        "difficulty": "medium",
+        "block": 2,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1,
+        "image": "/api/media/14d8364ceda4f5c378d1245a1673ab8b1b3c58ef883d1e2d6070446e445c9195.png"
+      },
+      {
+        "q": "Как называется этот инструмент?",
+        "a": "Канва бизнес-модели / бизнес модель канва / бизнес канва / Business Model Canvas / канва бизнес модели",
+        "difficulty": "medium",
+        "block": 2,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1,
+        "image": "/api/media/b7963e6406382b2ff8d5196dd5de1e0744ab8bdbf858c655423db7ecb826819c.png"
+      },
+      {
+        "q": "Какая это казахстанская компания?",
+        "a": "Air Astana / Эйр Астана / Аир Астана / Эйрастана",
+        "difficulty": "medium",
+        "block": 2,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1,
+        "image": "/api/media/2e59253ee73333192830a7431fb0a1cd1f56d1ce5073b90ed272113330aef897.png"
+      },
+      {
+        "q": "На каком рынке используют такие графики?",
+        "a": "Фондовый рынок / фондовая биржа / биржа / на фондовом / на бирже",
+        "difficulty": "hard",
+        "block": 2,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1,
+        "image": "/api/media/910b5df11203a573621d7a84b1c35f5029763564d71bddb0f8d8edca281c55f4.png"
+      },
+      {
+        "q": "Что символизируют эти животные?",
+        "a": "Рост бык и падение медведь рынка / рост и падение рынка / бык рост медведь падение / бык рост медведь спад",
+        "difficulty": "hard",
+        "block": 2,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1,
+        "image": "/api/media/f50146c8632d4f74fc977d2ee22996c09c0d94153e8bd9e4a6e7187b7747a4e6.png"
+      },
+      {
+        "q": "Какой тип компании так называют?",
+        "a": "Единорог / unicorn / стартап стоимостью более 1 млрд долларов",
+        "difficulty": "hard",
+        "block": 2,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1,
+        "image": "/api/media/3228d9d2ccae7c245648a5a392d1dc665dce5a54311df0f02d9442df991f3f21.png"
+      }
+    ],
+    "senior": [
+      {
+        "q": "Расшифруйте аббревиатуру ВВП.",
+        "a": "Валовой внутренний продукт",
+        "difficulty": "easy",
+        "block": 1,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1
+      },
+      {
+        "q": "Как называется центральный банк Казахстана?",
+        "a": "Национальный банк / Национальный Банк РК / Национальный банк Казахстана / Нацбанк / НБРК",
+        "difficulty": "easy",
+        "block": 1,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1
+      },
+      {
+        "q": "Как называется международный финансовый центр в Астане (аббревиатура)?",
+        "a": "МФЦА / AIFC",
+        "difficulty": "easy",
+        "block": 1,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1
+      },
+      {
+        "q": "Расшифруйте аббревиатуру ТОО.",
+        "a": "Товарищество с ограниченной ответственностью",
+        "difficulty": "medium",
+        "block": 1,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1
+      },
+      {
+        "q": "Как называется ставка Нацбанка, от которой зависит стоимость денег в экономике?",
+        "a": "Базовая ставка / базовая",
+        "difficulty": "medium",
+        "block": 1,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1
+      },
+      {
+        "q": "Как называется национальный холдинг, управляющий крупнейшими государственными компаниями Казахстана?",
+        "a": "Самрук-Казына / Самрук Казына / Samruk Kazyna",
+        "difficulty": "medium",
+        "block": 1,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1
+      },
+      {
+        "q": "Какой экономический союз образовали Казахстан, Россия, Беларусь, Армения и Кыргызстан (аббревиатура)?",
+        "a": "ЕАЭС / EAEU",
+        "difficulty": "medium",
+        "block": 1,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1
+      },
+      {
+        "q": "Как называется суверенный фонд Казахстана, который копит доходы от нефтяного сектора?",
+        "a": "Национальный фонд / Национальный фонд РК / Нацфонд / Национальный фонд Казахстана",
+        "difficulty": "hard",
+        "block": 1,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1
+      },
+      {
+        "q": "На какой американской бирже в январе 2024 года прошло IPO Kaspi.kz?",
+        "a": "Nasdaq / Насдак",
+        "difficulty": "hard",
+        "block": 1,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1
+      },
+      {
+        "q": "Как называется стратегия снижения риска за счёт распределения вложений между разными активами?",
+        "a": "Диверсификация",
+        "difficulty": "hard",
+        "block": 1,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1
+      },
+      {
+        "q": "К какой сфере относятся все эти компании?",
+        "a": "Финансы / банковский сектор / банки / финансовый сектор",
+        "difficulty": "easy",
+        "block": 2,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1,
+        "image": "/api/media/75dfca88414093dd5e9184e6e5aa3939054b96fabfca7fc5d2d38aa2ea4b2999.jpg"
+      },
+      {
+        "q": "Как называется эта отрасль экономики?",
+        "a": "Логистика / транспортная логистика",
+        "difficulty": "easy",
+        "block": 2,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1,
+        "image": "/api/media/601ca9fb86c8295fd1e67f78bb54135adeb599866a13f2da633223eb895f07db.jpg"
+      },
+      {
+        "q": "Какой ресурс составляет основу экспорта Казахстана?",
+        "a": "Нефть",
+        "difficulty": "easy",
+        "block": 2,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1,
+        "image": "/api/media/eaf2dfc30ebbcd56b811ff733de092620bb16ed3b8e0de138f341c24ac9b897e.jpg"
+      },
+      {
+        "q": "Как называется этот сухой порт?",
+        "a": "Хоргос / Khorgos / Хоргос Восточные ворота",
+        "difficulty": "medium",
+        "block": 2,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1,
+        "image": "/api/media/f2e0f4c8a407c1045e5abbdcf2c3323f3a09fc5dbb57b7ef3aa499b9f2a5ff1e.jpg"
+      },
+      {
+        "q": "Какой это союз?",
+        "a": "ЕАЭС / EAEU",
+        "difficulty": "medium",
+        "block": 2,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1,
+        "image": "/api/media/87d7149ff4caa2dee02208dd83db42758f91d7fda26bb5ffc3e59bf95da26230.jpg"
+      },
+      {
+        "q": "Как называется этот метод анализа?",
+        "a": "SWOT-анализ / SWOT / свот анализ / СВОТ",
+        "difficulty": "medium",
+        "block": 2,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1,
+        "image": "/api/media/023d29424b57b9c1812748a23d4a1430350ac59a84827dbe058faea212577ded.jpg"
+      },
+      {
+        "q": "На какой бирже Kaspi провёл IPO?",
+        "a": "Nasdaq / Насдак",
+        "difficulty": "medium",
+        "block": 2,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1,
+        "image": "/api/media/8cf089283496f5caeed58d1da92b1411edc9252a504c301402473fa5a7d09d64.jpg"
+      },
+      {
+        "q": "Что находится в этой точке?",
+        "a": "Точка рыночного равновесия / рыночное равновесие / равновесие спроса и предложения",
+        "difficulty": "hard",
+        "block": 2,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1,
+        "image": "/api/media/fb75231c9986ab9cdac11b095c1073e9facc83745037800c120b14d9a4234770.jpg"
+      },
+      {
+        "q": "Как называется эта модель?",
+        "a": "Воронка продаж / воронка",
+        "difficulty": "hard",
+        "block": 2,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1,
+        "image": "/api/media/7bf56b67e090b3644a250edc0b3461b86cdc3a7433cd520e83b289acaacdc185.jpg"
+      },
+      {
+        "q": "Как называется такая диаграмма?",
+        "a": "Диаграмма Ганта / график Ганта / Гант",
+        "difficulty": "hard",
+        "block": 2,
+        "points": null,
+        "sec": null,
+        "options": [],
+        "correct": -1,
+        "image": "/api/media/eb8bb1203c1b00e91729b8561921aceb0f9a909fa4f87fad48a40ada907cc5ed.jpg"
+      }
+    ]
+  },
+  "settings": {
+    "readSec": 5,
+    "quizSec": 30,
+    "pauseSec": 3,
+    "resultSec": 3,
+    "difficultyTiming": true,
+    "difficultySec": {
+      "easy": 20,
+      "medium": 30,
+      "hard": 40
+    },
+    "difficultyPoints": {
+      "easy": 1,
+      "medium": 2,
+      "hard": 3
+    },
+    "autoGrade": true,
+    "blockBreak": true,
+    "showQuestion": true
+  }
+}
