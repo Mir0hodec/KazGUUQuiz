@@ -347,11 +347,12 @@ function Start({ s }: { s: PublicState }) {
   );
 }
 
-function Center({ icon, label, sub, color, children }: { icon?: React.ReactNode; label: string; sub?: string; color: string; children?: React.ReactNode }) {
+function Center({ icon, label, sub, color, children, under }: { icon?: React.ReactNode; label: string; sub?: string; color: string; children?: React.ReactNode; under?: React.ReactNode }) {
   return (
     <div className="relative z-[1] h-full flex flex-col items-center justify-center text-center px-[4vw]">
       <div className={`${color} pop`}>{icon}</div>
       <div className={`brutal slam font-black leading-[.9] ${color}`} style={{ fontSize: label.length > 14 ? '12vh' : '16vh' }}>{label}</div>
+      {under}
       {sub && <div className={`caps font-black mt-[3vh] text-[4.5vh] opacity-80 rise ${color}`}>{sub}</div>}
       {children}
     </div>
@@ -522,7 +523,9 @@ export default function Display() {
   } else if (s.status === 'locked') {
     body = <Center color="text-warn" icon={<Lock size="12vh" strokeWidth={3} />} label="BUZZERS LOCKED" sub="Время вышло" />;
   } else {
-    body = <Center color="text-snow" label="GET READY" sub="Ожидание вопроса" />;
+    const age = s.tournament.ageMode ? s.tournament.age : null;
+    // плашка лиги (как в углу), крупно по центру — чтобы зал видел, чей сейчас вопрос
+    body = <Center color="text-snow" label="GET READY" sub="Ожидание вопроса" under={age && <span className="pop font-black caps mt-[4vh] px-[3vw] py-[1.4vh] border-[.4vh] text-[7vh] leading-none" style={{ background: AGE_COLOR[age], color: AGE_TEXT[age], borderColor: AGE_COLOR[age] }}>{AGE_LABEL[age]}</span>} />;
   }
 
   return (

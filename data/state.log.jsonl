@@ -36957,3 +36957,35 @@
 {"id":4437,"tid":"Tb6fb6df1","ts":"2026-11-11T15:03:14.896Z","t":1794409394896,"type":"display.set","data":{"view":"sponsors"}}
 {"id":4438,"tid":"Tb6fb6df1","ts":"2026-11-11T15:03:17.679Z","t":1794409397679,"type":"display.set","data":{"view":"record"}}
 {"id":4439,"tid":"Tb6fb6df1","ts":"2026-11-11T15:03:20.527Z","t":1794409400527,"type":"display.set","data":{"view":"flag"}}
+{"id":4440,"tid":"Tb6fb6df1","ts":"2026-11-11T15:21:48.600Z","t":1794410508600,"type":"auto.start","data":{"age":"junior","round":1,"question":1,"roundId":null,"mode":"quiz"}}
+{"id":4441,"tid":"Tb6fb6df1","ts":"2026-11-11T15:21:48.601Z","t":1794410508601,"type":"quiz.open","data":{"round":1,"question":1,"block":1,"quizId":"q247-22db","text":"Как называется небольшая табличка рядом с товаром, на которой указана его стоимость?","sec":20,"points":1,"difficulty":"easy"}}
+{"id":4442,"tid":"Tb6fb6df1","ts":"2026-11-11T15:21:50.175Z","t":1794410510175,"type":"auto.stop","data":{"age":"junior","round":1,"question":1,"roundId":null,"reason":"manual","mode":"quiz"}}
+{"id":4443,"tid":"Tb6fb6df1","ts":"2026-11-11T15:21:55.191Z","t":1794410515191,"type":"quiz.answers","data":{"quizId":"q247-22db","sec":20}}
+{"id":4444,"tid":"Tb6fb6df1","ts":"2026-11-11T15:21:55.784Z","t":1794410515784,"type":"quiz.close","data":{"quizId":"q247-22db","answers":0}}
+{"id":4445,"tid":"Tb6fb6df1","ts":"2026-11-11T15:21:56.640Z","t":1794410516640,"type":"age.rotate","data":{"from":"junior","age":"middle","question":1,"turnSize":1}}
+{"id":4446,"tid":"Tb6fb6df1","ts":"2026-11-11T15:21:56.641Z","t":1794410516641,"type":"quiz.reset","data":{"advanced":true}}
+{"id":4447,"tid":"Tb6fb6df1","ts":"2026-11-11T15:21:57.599Z","t":1794410517599,"type":"auto.start","data":{"age":"middle","round":1,"question":1,"roundId":null,"mode":"quiz"}}
+{"id":4448,"tid":"Tb6fb6df1","ts":"2026-11-11T15:21:57.599Z","t":1794410517599,"type":"quiz.open","data":{"round":1,"question":1,"block":1,"quizId":"q248-889a","text":"Как называется лицо, которое берёт деньги в долг у банка?","sec":20,"points":1,"difficulty":"easy"}}
+{"id":4449,"tid":"Tb6fb6df1","ts":"2026-11-11T15:22:04.613Z","t":1794410524613,"type":"quiz.answers","data":{"quizId":"q248-889a","sec":20}}
+{"id":4450,"tid":"Tb6fb6df1","ts":"2026-11-11T15:22:24.628Z","t":1794410544628,"type":"quiz.close","data":{"quizId":"q248-889a","answers":0}}
+{"id":4451,"tid":"Tb6fb6df1","ts":"2026-11-11T15:22:26.967Z","t":1794410546967,"type":"auto.stop","data":{"age":"middle","round":1,"question":1,"roundId":null,"reason":"manual","mode":"quiz"}}
+{"id":4452,"tid":"Tb6fb6df1","ts":"2026-11-11T15:23:04.595Z","t":1794410584595,"type":"game.restart","data":{"age":"junior","round":1,"question":1,"roundId":null,"allAges":true}}
+{"id":4453,"tid":"Tb6fb6df1","ts":"2026-11-11T15:29:39.320Z","t":1794410979320,"type":"auto.start","data":{"age":"junior","round":1,"question":1,"roundId":null,"mode":"quiz"}}
+{"id":4454,"tid":"Tb6fb6df1","ts":"2026-11-11T15:29:39.320Z","t":1794410979320,"type":"quiz.open","data":{"round":1,"question":1,"block":1,"quizId":"q249-c951","text":"Как называется небольшая табличка рядом с товаром, на которой указана его стоимость?","sec":20,"points":1,"difficulty":"easy"}}
+{"id":4455,"tid":"Tb6fb6df1","ts":"2026-11-11T15:29:48.322Z","t":1794410988322,"type":"quiz.answers","data":{"quizId":"q249-c951","sec":20}}
+{"id":4456,"tid":"Tb6fb6df1","ts":"2026-11-11T15:29:52.118Z","t":1794410992118,"type":"auto.stop","data":{"age":"junior","round":1,"question":1,"roundId":null,"reason":"manual","mode":"quiz"}}
+{"id":4457,"tid":"Tb6fb6df1","ts":"2026-11-11T15:29:54.774Z","t":1794410994774,"type":"quiz.close","data":{"quizId":"q249-c951","answers":0}}
+{"id":4458,"tid":"Tb6fb6df1","ts":"2026-11-11T15:29:55.375Z","t":1794410995375,"type":"age.rotate","data":{"from":"junior","age":"middle","question":1,"turnSize":1}}
+{"id":4459,"tid":"Tb6fb6df1","ts":"2026-11-11T15:29:55.375Z","t":1794410995375,"type":"quiz.reset","data":{"advanced":true}}
+{"id":4460,"tid":"Tb6fb6df1","ts":"2026-11-11T15:34:10.844Z","t":1794411250844,"type":"admin.login","data":{"ip":"127.0.0.1"}}
+{"id":4461,"tid":"Tb6fb6df1","ts":"2026-11-11T15:34:10.854Z","t":1794411250854,"type":"display.set","data":{"view":"auto"}}
+{"id":4462,"tid":"Tb6fb6df1","ts":"2026-11-11T15:34:27.322Z","t":1794411267322,"type":"admin.login","data":{"ip":"127.0.0.1"}}
+{"id":4463,"tid":"Tb6fb6df1","ts":"2026-11-11T15:34:27.330Z","t":1794411267330,"type":"display.set","data":{"view":"splash"}}
+{"id":4464,"tid":"Tb6fb6df1","ts":"2026-11-11T15:36:14.839Z","t":1794411374839,"type":"display.set","data":{"view":"auto"}}
+{"id":4465,"tid":"Tb6fb6df1","ts":"2026-11-11T15:36:16.534Z","t":1794411376534,"type":"auto.start","data":{"age":"middle","round":1,"question":1,"roundId":null,"mode":"quiz"}}
+{"id":4466,"tid":"Tb6fb6df1","ts":"2026-11-11T15:36:16.535Z","t":1794411376535,"type":"quiz.open","data":{"round":1,"question":1,"block":1,"quizId":"q250-60b2","text":"Как называется лицо, которое берёт деньги в долг у банка?","sec":20,"points":1,"difficulty":"easy"}}
+{"id":4467,"tid":"Tb6fb6df1","ts":"2026-11-11T15:36:20.662Z","t":1794411380662,"type":"auto.stop","data":{"age":"middle","round":1,"question":1,"roundId":null,"reason":"manual","mode":"quiz"}}
+{"id":4468,"tid":"Tb6fb6df1","ts":"2026-11-11T15:36:21.926Z","t":1794411381926,"type":"quiz.answers","data":{"quizId":"q250-60b2","sec":20}}
+{"id":4469,"tid":"Tb6fb6df1","ts":"2026-11-11T15:36:23.159Z","t":1794411383159,"type":"quiz.close","data":{"quizId":"q250-60b2","answers":0}}
+{"id":4470,"tid":"Tb6fb6df1","ts":"2026-11-11T15:36:26.535Z","t":1794411386535,"type":"age.rotate","data":{"from":"middle","age":"senior","question":1,"turnSize":1}}
+{"id":4471,"tid":"Tb6fb6df1","ts":"2026-11-11T15:36:26.535Z","t":1794411386535,"type":"quiz.reset","data":{"advanced":true}}
