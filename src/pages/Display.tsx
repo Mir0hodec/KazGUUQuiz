@@ -5,7 +5,7 @@ import { Volume2, VolumeX, Check, X, Radio, Lock, Crown, Flag, CheckCircle2, Max
 import { createSocket } from '../lib/socket';
 import { useSounds } from '../lib/sounds';
 import { fmtSec, useCountdown, useJoinBase, useQr } from '../lib/util';
-import type { BoardRow, PublicState, RevealState } from '../lib/types';
+import type { Age, BoardRow, PublicState, RevealState } from '../lib/types';
 import { AGE_COLOR, AGE_LABEL, AGE_TEXT, ageColor, nextLabel } from '../lib/age';
 
 function useBeep() {
@@ -435,6 +435,7 @@ export default function Display() {
       <div className="h-full relative flex flex-col items-center justify-center text-center px-[5vw] bg-panel">
         <Lock size="20vh" strokeWidth={2.5} className="text-warn pop" />
         <div className="brutal slam font-black text-[14vh] leading-[.9] text-warn mt-[2vh]">ПАУЗА</div>
+        {s.tournament.ageMode && s.auto.nextAge && <AgeBadge age={s.auto.nextAge} />}
         <div className="caps font-black text-[4.5vh] mt-[3vh] text-white/80 rise">{nextLabel(s.auto)}</div>
         <Clock s={s} light />
       </div>
@@ -525,7 +526,7 @@ export default function Display() {
   } else {
     const age = s.tournament.ageMode ? s.tournament.age : null;
     // плашка лиги (как в углу), крупно по центру — чтобы зал видел, чей сейчас вопрос
-    body = <Center color="text-snow" label="GET READY" sub="Ожидание вопроса" under={age && <span className="pop font-black caps mt-[4vh] px-[3vw] py-[1.4vh] border-[.4vh] text-[7vh] leading-none" style={{ background: AGE_COLOR[age], color: AGE_TEXT[age], borderColor: AGE_COLOR[age] }}>{AGE_LABEL[age]}</span>} />;
+    body = <Center color="text-snow" label="GET READY" sub="Ожидание вопроса" under={age && <AgeBadge age={age} />} />;
   }
 
   return (
@@ -562,4 +563,9 @@ function ShowVideo({ src, loop, sound }: { src: string; loop: boolean; sound: bo
     el.play().catch(() => { el.muted = true; void el.play().catch(() => {}); });
   }, [sound]);
   return <video ref={ref} src={src} loop={loop} autoPlay playsInline preload="auto" className="w-full h-full object-contain bg-black" />;
+}
+
+/** Крупная плашка лиги по центру экрана — чтобы зал видел, чей сейчас вопрос. */
+function AgeBadge({ age }: { age: Age }) {
+  return <span className="pop font-black caps mt-[4vh] px-[3vw] py-[1.4vh] border-[.4vh] text-[7vh] leading-none" style={{ background: AGE_COLOR[age], color: AGE_TEXT[age], borderColor: AGE_COLOR[age] }}>{AGE_LABEL[age]}</span>;
 }

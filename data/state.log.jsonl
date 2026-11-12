@@ -36989,3 +36989,347 @@
 {"id":4469,"tid":"Tb6fb6df1","ts":"2026-11-11T15:36:23.159Z","t":1794411383159,"type":"quiz.close","data":{"quizId":"q250-60b2","answers":0}}
 {"id":4470,"tid":"Tb6fb6df1","ts":"2026-11-11T15:36:26.535Z","t":1794411386535,"type":"age.rotate","data":{"from":"middle","age":"senior","question":1,"turnSize":1}}
 {"id":4471,"tid":"Tb6fb6df1","ts":"2026-11-11T15:36:26.535Z","t":1794411386535,"type":"quiz.reset","data":{"advanced":true}}
+{"id":4472,"tid":"Tb6fb6df1","ts":"2026-11-11T16:19:06.582Z","t":1794413946582,"type":"tunnel","data":{"status":"restarting","url":null,"error":"сменилась сеть"}}
+{"id":4473,"tid":"Tb6fb6df1","ts":"2026-11-11T16:19:06.595Z","t":1794413946596,"type":"tunnel","data":{"status":"starting","url":null,"error":null}}
+{"id":4474,"tid":"Tb6fb6df1","ts":"2026-11-11T16:19:07.820Z","t":1794413947820,"type":"tunnel","data":{"status":"checking","url":null,"error":null}}
+{"id":4475,"tid":"Tb6fb6df1","ts":"2026-11-11T16:19:07.904Z","t":1794413947904,"type":"tunnel","data":{"status":"restarting","url":null,"error":"cloudflared остановился"}}
+{"id":4476,"tid":"Tb6fb6df1","ts":"2026-11-12T02:12:07.277Z","t":1794449527277,"type":"tunnel","data":{"status":"starting","url":null,"error":null}}
+{"id":4477,"tid":"Tb6fb6df1","ts":"2026-11-12T02:12:10.006Z","t":1794449530006,"type":"tunnel","data":{"status":"checking","url":null,"error":null}}
+{"id":4478,"tid":"Tb6fb6df1","ts":"2026-11-12T02:12:10.115Z","t":1794449530115,"type":"tunnel","data":{"status":"restarting","url":null,"error":"cloudflared остановился"}}
+{"id":4479,"tid":"Tb6fb6df1","ts":"2026-11-12T02:12:11.006Z","t":1794449531006,"type":"admin.login","data":{"ip":"127.0.0.1"}}
+{"id":4480,"tid":"Tb6fb6df1","ts":"2026-11-12T02:12:13.131Z","t":1794449533131,"type":"tunnel","data":{"status":"starting","url":null,"error":null}}
+{"id":4481,"tid":"Tb6fb6df1","ts":"2026-11-12T02:12:13.303Z","t":1794449533303,"type":"tunnel","data":{"status":"checking","url":null,"error":null}}
+{"id":4482,"tid":"Tb6fb6df1","ts":"2026-11-12T02:12:13.308Z","t":1794449533308,"type":"tunnel","data":{"status":"restarting","url":null,"error":"cloudflared остановился"}}
+{"id":4483,"tid":"Tb6fb6df1","ts":"2026-11-12T02:12:16.311Z","t":1794449536311,"type":"tunnel","data":{"status":"starting","url":null,"error":null}}
+{"id":4484,"tid":"Tb6fb6df1","ts":"2026-11-12T02:12:16.474Z","t":1794449536474,"type":"tunnel","data":{"status":"checking","url":null,"error":null}}
+{"id":4485,"tid":"Tb6fb6df1","ts":"2026-11-12T02:12:16.478Z","t":1794449536478,"type":"tunnel","data":{"status":"restarting","url":null,"error":"cloudflared остановился"}}
+{"id":4486,"tid":"Tb6fb6df1","ts":"2026-11-12T02:12:19.491Z","t":1794449539491,"type":"tunnel","data":{"status":"starting","url":null,"error":null}}
+{"id":4487,"tid":"Tb6fb6df1","ts":"2026-11-12T02:12:19.641Z","t":1794449539641,"type":"tunnel","data":{"status":"checking","url":null,"error":null}}
+{"id":4488,"tid":"Tb6fb6df1","ts":"2026-11-12T02:12:19.645Z","t":1794449539645,"type":"tunnel","data":{"status":"restarting","url":null,"error":"cloudflared остановился"}}
+{"id":4489,"tid":"Tb6fb6df1","ts":"2026-11-12T02:12:22.655Z","t":1794449542655,"type":"tunnel","data":{"status":"starting","url":null,"error":null}}
+{"id":4490,"tid":"Tb6fb6df1","ts":"2026-11-12T02:12:22.813Z","t":1794449542813,"type":"tunnel","data":{"status":"checking","url":null,"error":null}}
+{"id":4491,"tid":"Tb6fb6df1","ts":"2026-11-12T02:12:22.817Z","t":1794449542817,"type":"tunnel","data":{"status":"restarting","url":null,"error":"cloudflared остановился"}}
+{"id":4492,"tid":"Tb6fb6df1","ts":"2026-11-12T02:12:25.823Z","t":1794449545823,"type":"tunnel","data":{"status":"starting","url":null,"error":null}}
+{"id":4493,"tid":"Tb6fb6df1","ts":"2026-11-12T02:12:25.970Z","t":1794449545970,"type":"tunnel","data":{"status":"checking","url":null,"error":null}}
+{"id":4494,"tid":"Tb6fb6df1","ts":"2026-11-12T02:12:25.974Z","t":1794449545974,"type":"tunnel","data":{"status":"restarting","url":null,"error":"cloudflared остановился"}}
+{"id":4495,"tid":"Tb6fb6df1","ts":"2026-11-12T02:12:28.981Z","t":1794449548981,"type":"tunnel","data":{"status":"starting","url":null,"error":null}}
+{"id":4496,"tid":"Tb6fb6df1","ts":"2026-11-12T02:12:29.135Z","t":1794449549135,"type":"tunnel","data":{"status":"checking","url":null,"error":null}}
+{"id":4497,"tid":"Tb6fb6df1","ts":"2026-11-12T02:12:29.138Z","t":1794449549139,"type":"tunnel","data":{"status":"restarting","url":null,"error":"cloudflared остановился"}}
+{"id":4498,"tid":"Tb6fb6df1","ts":"2026-11-12T02:12:32.141Z","t":1794449552141,"type":"tunnel","data":{"status":"starting","url":null,"error":null}}
+{"id":4499,"tid":"Tb6fb6df1","ts":"2026-11-12T02:12:32.245Z","t":1794449552245,"type":"tunnel","data":{"status":"checking","url":null,"error":null}}
+{"id":4500,"tid":"Tb6fb6df1","ts":"2026-11-12T02:12:32.249Z","t":1794449552249,"type":"tunnel","data":{"status":"restarting","url":null,"error":"cloudflared остановился"}}
+{"id":4501,"tid":"Tb6fb6df1","ts":"2026-11-12T02:12:35.250Z","t":1794449555250,"type":"tunnel","data":{"status":"starting","url":null,"error":null}}
+{"id":4502,"tid":"Tb6fb6df1","ts":"2026-11-12T02:12:41.243Z","t":1794449561243,"type":"tunnel","data":{"status":"checking","url":null,"error":null}}
+{"id":4503,"tid":"Tb6fb6df1","ts":"2026-11-12T02:13:08.016Z","t":1794449588016,"type":"tunnel","data":{"status":"restarting","url":null,"error":"сменилась сеть"}}
+{"id":4504,"tid":"Tb6fb6df1","ts":"2026-11-12T02:13:08.017Z","t":1794449588017,"type":"tunnel","data":{"status":"starting","url":null,"error":null}}
+{"id":4505,"tid":"Tb6fb6df1","ts":"2026-11-12T02:13:22.860Z","t":1794449602860,"type":"tunnel","data":{"status":"checking","url":null,"error":null}}
+{"id":4506,"tid":"Tb6fb6df1","ts":"2026-11-12T02:13:22.864Z","t":1794449602864,"type":"tunnel","data":{"status":"restarting","url":null,"error":"cloudflared остановился"}}
+{"id":4507,"tid":"Tb6fb6df1","ts":"2026-11-12T02:13:25.871Z","t":1794449605871,"type":"tunnel","data":{"status":"starting","url":null,"error":null}}
+{"id":4508,"tid":"Tb6fb6df1","ts":"2026-11-12T02:13:32.351Z","t":1794449612351,"type":"tunnel","data":{"status":"checking","url":null,"error":null}}
+{"id":4509,"tid":"Tb6fb6df1","ts":"2026-11-12T02:14:20.906Z","t":1794449660906,"type":"tunnel","data":{"status":"ready","url":"https://heated-cross-dress-injured.trycloudflare.com","error":null}}
+{"id":4510,"tid":"Tb6fb6df1","ts":"2026-11-12T02:23:30.046Z","t":1794450210046,"type":"game.restart","data":{"age":"junior","round":1,"question":1,"roundId":null,"allAges":true}}
+{"id":4511,"tid":"Tb6fb6df1","ts":"2026-11-12T02:23:45.094Z","t":1794450225094,"type":"display.set","data":{"view":"splash"}}
+{"id":4512,"tid":"Tb6fb6df1","ts":"2026-11-12T02:23:50.360Z","t":1794450230360,"type":"tunnel","data":{"status":"restarting","url":null,"error":"ссылка перестала открываться"}}
+{"id":4513,"tid":"Tb6fb6df1","ts":"2026-11-12T02:23:50.361Z","t":1794450230361,"type":"tunnel","data":{"status":"starting","url":null,"error":null}}
+{"id":4514,"tid":"Tb6fb6df1","ts":"2026-11-12T02:24:02.100Z","t":1794450242100,"type":"tunnel","data":{"status":"checking","url":null,"error":null}}
+{"id":4515,"tid":"Tb6fb6df1","ts":"2026-11-12T02:24:02.105Z","t":1794450242105,"type":"tunnel","data":{"status":"restarting","url":null,"error":"cloudflared остановился"}}
+{"id":4516,"tid":"Tb6fb6df1","ts":"2026-11-12T02:24:05.120Z","t":1794450245120,"type":"tunnel","data":{"status":"starting","url":null,"error":null}}
+{"id":4517,"tid":"Tb6fb6df1","ts":"2026-11-12T02:24:16.811Z","t":1794450256811,"type":"tunnel","data":{"status":"checking","url":null,"error":null}}
+{"id":4518,"tid":"Tb6fb6df1","ts":"2026-11-12T02:24:16.816Z","t":1794450256816,"type":"tunnel","data":{"status":"restarting","url":null,"error":"cloudflared остановился"}}
+{"id":4519,"tid":"Tb6fb6df1","ts":"2026-11-12T02:24:19.826Z","t":1794450259826,"type":"tunnel","data":{"status":"starting","url":null,"error":null}}
+{"id":4520,"tid":"Tb6fb6df1","ts":"2026-11-12T02:24:31.381Z","t":1794450271381,"type":"tunnel","data":{"status":"checking","url":null,"error":null}}
+{"id":4521,"tid":"Tb6fb6df1","ts":"2026-11-12T02:24:31.387Z","t":1794450271387,"type":"tunnel","data":{"status":"restarting","url":null,"error":"cloudflared остановился"}}
+{"id":4522,"tid":"Tb6fb6df1","ts":"2026-11-12T02:24:34.397Z","t":1794450274397,"type":"tunnel","data":{"status":"starting","url":null,"error":null}}
+{"id":4523,"tid":"Tb6fb6df1","ts":"2026-11-12T02:24:49.501Z","t":1794450289501,"type":"tunnel","data":{"status":"checking","url":null,"error":null}}
+{"id":4524,"tid":"Tb6fb6df1","ts":"2026-11-12T02:24:49.510Z","t":1794450289510,"type":"tunnel","data":{"status":"restarting","url":null,"error":"cloudflared остановился"}}
+{"id":4525,"tid":"Tb6fb6df1","ts":"2026-11-12T02:24:52.522Z","t":1794450292522,"type":"tunnel","data":{"status":"starting","url":null,"error":null}}
+{"id":4526,"tid":"Tb6fb6df1","ts":"2026-11-12T02:25:01.384Z","t":1794450301384,"type":"tunnel","data":{"status":"checking","url":null,"error":null}}
+{"id":4527,"tid":"Tb6fb6df1","ts":"2026-11-12T02:25:09.453Z","t":1794450309453,"type":"tunnel","data":{"status":"ready","url":"https://yellow-saturn-lite-opposed.trycloudflare.com","error":null}}
+{"id":4528,"tid":"Tb6fb6df1","ts":"2026-11-12T02:32:15.286Z","t":1794450735286,"type":"display.set","data":{"view":"flag"}}
+{"id":4529,"tid":"Tb6fb6df1","ts":"2026-11-12T02:32:20.958Z","t":1794450740958,"type":"display.set","data":{"view":"sponsors"}}
+{"id":4530,"tid":"Tb6fb6df1","ts":"2026-11-12T02:32:21.550Z","t":1794450741550,"type":"display.set","data":{"view":"splash"}}
+{"id":4531,"tid":"Tb6fb6df1","ts":"2026-11-12T02:32:22.102Z","t":1794450742102,"type":"display.set","data":{"view":"sponsors"}}
+{"id":4532,"tid":"Tb6fb6df1","ts":"2026-11-12T02:32:23.758Z","t":1794450743758,"type":"display.set","data":{"view":"splash"}}
+{"id":4533,"tid":"Tb6fb6df1","ts":"2026-11-12T02:32:24.318Z","t":1794450744318,"type":"display.set","data":{"view":"splash"}}
+{"id":4534,"tid":"Tb6fb6df1","ts":"2026-11-12T02:38:53.713Z","t":1794451133713,"type":"tournament.create","data":{"id":"T7b9a8669","name":"Дополнительные вопросы","teams":30,"copyFrom":null}}
+{"id":4535,"tid":"Tb6fb6df1","ts":"2026-11-12T02:38:53.714Z","t":1794451133714,"type":"tournament.deactivate","data":{"name":"Финал"}}
+{"id":1,"tid":"T7b9a8669","ts":"2026-11-12T02:38:53.714Z","t":1794451133714,"type":"tournament.activate","data":{"name":"Дополнительные вопросы"}}
+{"id":2,"tid":"T7b9a8669","ts":"2026-11-12T02:39:30.159Z","t":1794451170159,"type":"display.set","data":{"view":"splash"}}
+{"id":3,"tid":"T7b9a8669","ts":"2026-11-12T02:39:41.598Z","t":1794451181598,"type":"display.set","data":{"view":"sponsors"}}
+{"id":4,"tid":"T7b9a8669","ts":"2026-11-12T02:39:41.998Z","t":1794451181998,"type":"display.set","data":{"view":"splash"}}
+{"id":5,"tid":"T7b9a8669","ts":"2026-11-12T02:40:49.550Z","t":1794451249550,"type":"display.set","data":{"view":"sponsors"}}
+{"id":6,"tid":"T7b9a8669","ts":"2026-11-12T02:41:56.398Z","t":1794451316398,"type":"display.set","data":{"view":"splash"}}
+{"id":7,"tid":"T7b9a8669","ts":"2026-11-12T02:44:09.771Z","t":1794451449771,"type":"questions.set","data":{"count":3,"age":"junior"}}
+{"id":8,"tid":"T7b9a8669","ts":"2026-11-12T02:44:20.206Z","t":1794451460206,"type":"age.activate","data":{"age":"middle"}}
+{"id":9,"tid":"T7b9a8669","ts":"2026-11-12T02:45:04.313Z","t":1794451504313,"type":"display.set","data":{"view":"splash"}}
+{"id":10,"tid":"T7b9a8669","ts":"2026-11-12T02:45:25.414Z","t":1794451525414,"type":"age.activate","data":{"age":"junior"}}
+{"id":11,"tid":"T7b9a8669","ts":"2026-11-12T02:45:26.354Z","t":1794451526355,"type":"age.activate","data":{"age":"middle"}}
+{"id":12,"tid":"T7b9a8669","ts":"2026-11-12T02:45:31.882Z","t":1794451531882,"type":"display.set","data":{"view":"splash"}}
+{"id":13,"tid":"T7b9a8669","ts":"2026-11-12T02:45:46.486Z","t":1794451546486,"type":"display.set","data":{"view":"auto"}}
+{"id":14,"tid":"T7b9a8669","ts":"2026-11-12T02:45:54.678Z","t":1794451554678,"type":"tournament.deactivate","data":{"name":"Дополнительные вопросы"}}
+{"id":4536,"tid":"Tb6fb6df1","ts":"2026-11-12T02:45:54.681Z","t":1794451554681,"type":"tournament.activate","data":{"name":"Финал"}}
+{"id":4537,"tid":"Tb6fb6df1","ts":"2026-11-12T02:45:59.958Z","t":1794451559958,"type":"auto.start","data":{"age":"junior","round":1,"question":1,"roundId":null,"mode":"quiz"}}
+{"id":4538,"tid":"Tb6fb6df1","ts":"2026-11-12T02:45:59.958Z","t":1794451559958,"type":"quiz.open","data":{"round":1,"question":1,"block":1,"quizId":"q251-6dd5","text":"Как называется небольшая табличка рядом с товаром, на которой указана его стоимость?","sec":20,"points":1,"difficulty":"easy"}}
+{"id":4539,"tid":"Tb6fb6df1","ts":"2026-11-12T02:46:08.973Z","t":1794451568973,"type":"quiz.answers","data":{"quizId":"q251-6dd5","sec":20}}
+{"id":4540,"tid":"Tb6fb6df1","ts":"2026-11-12T02:46:28.980Z","t":1794451588980,"type":"quiz.close","data":{"quizId":"q251-6dd5","answers":0}}
+{"id":4541,"tid":"Tb6fb6df1","ts":"2026-11-12T02:46:31.985Z","t":1794451591985,"type":"age.rotate","data":{"from":"junior","age":"middle","question":1,"turnSize":1}}
+{"id":4542,"tid":"Tb6fb6df1","ts":"2026-11-12T02:46:31.985Z","t":1794451591985,"type":"quiz.reset","data":{"advanced":true}}
+{"id":4543,"tid":"Tb6fb6df1","ts":"2026-11-12T02:46:31.986Z","t":1794451591986,"type":"quiz.open","data":{"round":1,"question":1,"block":1,"quizId":"q252-e46c","text":"Как называется лицо, которое берёт деньги в долг у банка?","sec":20,"points":1,"difficulty":"easy"}}
+{"id":4544,"tid":"Tb6fb6df1","ts":"2026-11-12T02:46:38.287Z","t":1794451598287,"type":"auto.stop","data":{"age":"middle","round":1,"question":1,"roundId":null,"reason":"manual","mode":"quiz"}}
+{"id":4545,"tid":"Tb6fb6df1","ts":"2026-11-12T02:46:38.996Z","t":1794451598996,"type":"quiz.answers","data":{"quizId":"q252-e46c","sec":20}}
+{"id":4546,"tid":"Tb6fb6df1","ts":"2026-11-12T02:46:46.158Z","t":1794451606158,"type":"quiz.close","data":{"quizId":"q252-e46c","answers":0}}
+{"id":4547,"tid":"Tb6fb6df1","ts":"2026-11-12T02:46:47.342Z","t":1794451607342,"type":"age.rotate","data":{"from":"middle","age":"senior","question":1,"turnSize":1}}
+{"id":4548,"tid":"Tb6fb6df1","ts":"2026-11-12T02:46:47.342Z","t":1794451607342,"type":"quiz.reset","data":{"advanced":true}}
+{"id":4549,"tid":"Tb6fb6df1","ts":"2026-11-12T02:46:57.070Z","t":1794451617070,"type":"auto.start","data":{"age":"senior","round":1,"question":1,"roundId":null,"mode":"quiz"}}
+{"id":4550,"tid":"Tb6fb6df1","ts":"2026-11-12T02:46:57.070Z","t":1794451617070,"type":"quiz.open","data":{"round":1,"question":1,"block":1,"quizId":"q253-d089","text":"Как называется денежное вознаграждение акционеру из прибыли компании?","sec":20,"points":1,"difficulty":"easy"}}
+{"id":4551,"tid":"Tb6fb6df1","ts":"2026-11-12T02:46:57.910Z","t":1794451617910,"type":"auto.stop","data":{"age":"senior","round":1,"question":1,"roundId":null,"reason":"manual","mode":"quiz"}}
+{"id":4552,"tid":"Tb6fb6df1","ts":"2026-11-12T02:46:58.526Z","t":1794451618526,"type":"quiz.answers","data":{"quizId":"q253-d089","sec":20}}
+{"id":4553,"tid":"Tb6fb6df1","ts":"2026-11-12T02:46:59.215Z","t":1794451619215,"type":"quiz.close","data":{"quizId":"q253-d089","answers":0}}
+{"id":4554,"tid":"Tb6fb6df1","ts":"2026-11-12T02:47:03.790Z","t":1794451623790,"type":"age.rotate","data":{"from":"senior","age":"junior","question":2,"turnSize":1}}
+{"id":4555,"tid":"Tb6fb6df1","ts":"2026-11-12T02:47:03.790Z","t":1794451623790,"type":"quiz.reset","data":{"advanced":true}}
+{"id":4556,"tid":"Tb6fb6df1","ts":"2026-11-12T02:47:10.158Z","t":1794451630158,"type":"auto.start","data":{"age":"junior","round":1,"question":2,"roundId":null,"mode":"quiz"}}
+{"id":4557,"tid":"Tb6fb6df1","ts":"2026-11-12T02:47:10.159Z","t":1794451630159,"type":"quiz.open","data":{"round":1,"question":2,"block":1,"quizId":"q254-2b92","text":"Ты оплатил покупку, и кассир выдал бумагу с названиями товаров и суммой оплаты. Как называется эта бумага?","sec":20,"points":1,"difficulty":"easy"}}
+{"id":4558,"tid":"Tb6fb6df1","ts":"2026-11-12T02:47:11.070Z","t":1794451631070,"type":"auto.stop","data":{"age":"junior","round":1,"question":2,"roundId":null,"reason":"manual","mode":"quiz"}}
+{"id":4559,"tid":"Tb6fb6df1","ts":"2026-11-12T02:47:15.486Z","t":1794451635486,"type":"auto.continue","data":{"age":"junior","round":1,"question":2,"roundId":null}}
+{"id":4560,"tid":"Tb6fb6df1","ts":"2026-11-12T02:47:21.171Z","t":1794451641171,"type":"quiz.answers","data":{"quizId":"q254-2b92","sec":20}}
+{"id":4561,"tid":"Tb6fb6df1","ts":"2026-11-12T02:47:41.184Z","t":1794451661184,"type":"quiz.close","data":{"quizId":"q254-2b92","answers":0}}
+{"id":4562,"tid":"Tb6fb6df1","ts":"2026-11-12T02:47:44.197Z","t":1794451664197,"type":"age.rotate","data":{"from":"junior","age":"middle","question":2,"turnSize":1}}
+{"id":4563,"tid":"Tb6fb6df1","ts":"2026-11-12T02:47:44.197Z","t":1794451664197,"type":"quiz.reset","data":{"advanced":true}}
+{"id":4564,"tid":"Tb6fb6df1","ts":"2026-11-12T02:47:44.197Z","t":1794451664197,"type":"quiz.open","data":{"round":1,"question":2,"block":1,"quizId":"q255-6d40","text":"Как называется площадка, где разные продавцы предлагают свои товары через интернет?","sec":20,"points":1,"difficulty":"easy"}}
+{"id":4565,"tid":"Tb6fb6df1","ts":"2026-11-12T02:47:50.630Z","t":1794451670630,"type":"auto.stop","data":{"age":"middle","round":1,"question":2,"roundId":null,"reason":"manual","mode":"quiz"}}
+{"id":4566,"tid":"Tb6fb6df1","ts":"2026-11-12T02:47:51.566Z","t":1794451671566,"type":"quiz.answers","data":{"quizId":"q255-6d40","sec":20}}
+{"id":4567,"tid":"Tb6fb6df1","ts":"2026-11-12T02:48:11.575Z","t":1794451691575,"type":"quiz.close","data":{"quizId":"q255-6d40","answers":0}}
+{"id":4568,"tid":"Tb6fb6df1","ts":"2026-11-12T02:48:12.830Z","t":1794451692830,"type":"age.rotate","data":{"from":"middle","age":"senior","question":2,"turnSize":1}}
+{"id":4569,"tid":"Tb6fb6df1","ts":"2026-11-12T02:48:12.830Z","t":1794451692830,"type":"quiz.reset","data":{"advanced":true}}
+{"id":4570,"tid":"Tb6fb6df1","ts":"2026-11-12T02:48:14.807Z","t":1794451694807,"type":"auto.start","data":{"age":"senior","round":1,"question":2,"roundId":null,"mode":"quiz"}}
+{"id":4571,"tid":"Tb6fb6df1","ts":"2026-11-12T02:48:14.807Z","t":1794451694807,"type":"quiz.open","data":{"round":1,"question":2,"block":1,"quizId":"q256-07c0","text":"Как называется долгосрочная аренда оборудования или транспорта с возможностью последующего выкупа?","sec":20,"points":1,"difficulty":"easy"}}
+{"id":4572,"tid":"Tb6fb6df1","ts":"2026-11-12T02:48:24.818Z","t":1794451704818,"type":"quiz.answers","data":{"quizId":"q256-07c0","sec":20}}
+{"id":4573,"tid":"Tb6fb6df1","ts":"2026-11-12T02:48:44.825Z","t":1794451724825,"type":"quiz.close","data":{"quizId":"q256-07c0","answers":0}}
+{"id":4574,"tid":"Tb6fb6df1","ts":"2026-11-12T02:48:47.833Z","t":1794451727833,"type":"age.rotate","data":{"from":"senior","age":"junior","question":3,"turnSize":1}}
+{"id":4575,"tid":"Tb6fb6df1","ts":"2026-11-12T02:48:47.833Z","t":1794451727833,"type":"quiz.reset","data":{"advanced":true}}
+{"id":4576,"tid":"Tb6fb6df1","ts":"2026-11-12T02:48:47.834Z","t":1794451727834,"type":"quiz.open","data":{"round":1,"question":3,"block":1,"quizId":"q257-8453","text":"В магазине тетрадь стоила 200 тенге, а на время акции стала стоить 150 тенге. Как называется такое снижение цены?","sec":20,"points":1,"difficulty":"easy"}}
+{"id":4577,"tid":"Tb6fb6df1","ts":"2026-11-12T02:48:58.842Z","t":1794451738842,"type":"quiz.answers","data":{"quizId":"q257-8453","sec":20}}
+{"id":4578,"tid":"Tb6fb6df1","ts":"2026-11-12T02:49:18.850Z","t":1794451758850,"type":"quiz.close","data":{"quizId":"q257-8453","answers":0}}
+{"id":4579,"tid":"Tb6fb6df1","ts":"2026-11-12T02:49:21.859Z","t":1794451761859,"type":"age.rotate","data":{"from":"junior","age":"middle","question":3,"turnSize":1}}
+{"id":4580,"tid":"Tb6fb6df1","ts":"2026-11-12T02:49:21.859Z","t":1794451761859,"type":"quiz.reset","data":{"advanced":true}}
+{"id":4581,"tid":"Tb6fb6df1","ts":"2026-11-12T02:49:21.861Z","t":1794451761861,"type":"quiz.open","data":{"round":1,"question":3,"block":1,"quizId":"q258-e285","text":"Как называется установленная государством обязательная денежная выплата с доходов или имущества?","sec":20,"points":1,"difficulty":"easy"}}
+{"id":4582,"tid":"Tb6fb6df1","ts":"2026-11-12T02:49:31.863Z","t":1794451771863,"type":"quiz.answers","data":{"quizId":"q258-e285","sec":20}}
+{"id":4583,"tid":"Tb6fb6df1","ts":"2026-11-12T02:49:51.871Z","t":1794451791871,"type":"quiz.close","data":{"quizId":"q258-e285","answers":0}}
+{"id":4584,"tid":"Tb6fb6df1","ts":"2026-11-12T02:49:54.878Z","t":1794451794878,"type":"age.rotate","data":{"from":"middle","age":"senior","question":3,"turnSize":1}}
+{"id":4585,"tid":"Tb6fb6df1","ts":"2026-11-12T02:49:54.878Z","t":1794451794878,"type":"quiz.reset","data":{"advanced":true}}
+{"id":4586,"tid":"Tb6fb6df1","ts":"2026-11-12T02:49:54.879Z","t":1794451794879,"type":"quiz.open","data":{"round":1,"question":3,"block":1,"quizId":"q259-4806","text":"Как называется право использовать изобретение, подтверждённое охранным документом?","sec":20,"points":1,"difficulty":"easy"}}
+{"id":4587,"tid":"Tb6fb6df1","ts":"2026-11-12T02:49:55.566Z","t":1794451795566,"type":"auto.stop","data":{"age":"senior","round":1,"question":3,"roundId":null,"reason":"manual","mode":"quiz"}}
+{"id":4588,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:03.350Z","t":1794451803350,"type":"quiz.answers","data":{"quizId":"q259-4806","sec":20}}
+{"id":4589,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:03.919Z","t":1794451803919,"type":"quiz.close","data":{"quizId":"q259-4806","answers":0}}
+{"id":4590,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:04.494Z","t":1794451804494,"type":"age.rotate","data":{"from":"senior","age":"junior","question":4,"turnSize":1}}
+{"id":4591,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:04.494Z","t":1794451804494,"type":"quiz.reset","data":{"advanced":true}}
+{"id":4592,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:04.998Z","t":1794451804998,"type":"auto.start","data":{"age":"junior","round":1,"question":4,"roundId":null,"mode":"quiz"}}
+{"id":4593,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:04.999Z","t":1794451804999,"type":"quiz.open","data":{"round":1,"question":4,"block":1,"quizId":"q260-5a6d","text":"В пекарне продают булочки, а в парикмахерской делают стрижки. Что из этого является услугой?","sec":30,"points":2,"difficulty":"medium"}}
+{"id":4594,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:05.544Z","t":1794451805544,"type":"auto.stop","data":{"age":"junior","round":1,"question":4,"roundId":null,"reason":"manual","mode":"quiz"}}
+{"id":4595,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:06.103Z","t":1794451806103,"type":"quiz.answers","data":{"quizId":"q260-5a6d","sec":30}}
+{"id":4596,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:06.646Z","t":1794451806646,"type":"quiz.close","data":{"quizId":"q260-5a6d","answers":0}}
+{"id":4597,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:07.366Z","t":1794451807366,"type":"age.rotate","data":{"from":"junior","age":"middle","question":4,"turnSize":1}}
+{"id":4598,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:07.367Z","t":1794451807367,"type":"quiz.reset","data":{"advanced":true}}
+{"id":4599,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:07.886Z","t":1794451807886,"type":"auto.start","data":{"age":"middle","round":1,"question":4,"roundId":null,"mode":"quiz"}}
+{"id":4600,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:07.886Z","t":1794451807886,"type":"quiz.open","data":{"round":1,"question":4,"block":1,"quizId":"q261-5d60","text":"Как называется возврат части суммы покупки покупателю в виде денег или бонусов?","sec":30,"points":2,"difficulty":"medium"}}
+{"id":4601,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:08.415Z","t":1794451808415,"type":"auto.stop","data":{"age":"middle","round":1,"question":4,"roundId":null,"reason":"manual","mode":"quiz"}}
+{"id":4602,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:09.010Z","t":1794451809010,"type":"quiz.answers","data":{"quizId":"q261-5d60","sec":30}}
+{"id":4603,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:09.471Z","t":1794451809471,"type":"quiz.close","data":{"quizId":"q261-5d60","answers":0}}
+{"id":4604,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:09.982Z","t":1794451809982,"type":"age.rotate","data":{"from":"middle","age":"senior","question":4,"turnSize":1}}
+{"id":4605,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:09.982Z","t":1794451809982,"type":"quiz.reset","data":{"advanced":true}}
+{"id":4606,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:10.455Z","t":1794451810455,"type":"auto.start","data":{"age":"senior","round":1,"question":4,"roundId":null,"mode":"quiz"}}
+{"id":4607,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:10.455Z","t":1794451810455,"type":"quiz.open","data":{"round":1,"question":4,"block":1,"quizId":"q262-4e75","text":"Как называется выпуск новых акций или облигаций для привлечения капитала?","sec":30,"points":2,"difficulty":"medium"}}
+{"id":4608,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:10.991Z","t":1794451810991,"type":"auto.stop","data":{"age":"senior","round":1,"question":4,"roundId":null,"reason":"manual","mode":"quiz"}}
+{"id":4609,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:11.761Z","t":1794451811761,"type":"quiz.answers","data":{"quizId":"q262-4e75","sec":30}}
+{"id":4610,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:12.048Z","t":1794451812048,"type":"quiz.close","data":{"quizId":"q262-4e75","answers":0}}
+{"id":4611,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:12.686Z","t":1794451812686,"type":"age.rotate","data":{"from":"senior","age":"junior","question":5,"turnSize":1}}
+{"id":4612,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:12.686Z","t":1794451812686,"type":"quiz.reset","data":{"advanced":true}}
+{"id":4613,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:13.114Z","t":1794451813114,"type":"auto.start","data":{"age":"junior","round":1,"question":5,"roundId":null,"mode":"quiz"}}
+{"id":4614,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:13.114Z","t":1794451813114,"type":"quiz.open","data":{"round":1,"question":5,"block":1,"quizId":"q263-4d6e","text":"У тебя 1 000 тенге. Ты купил книгу за 650 тенге. Сколько денег у тебя осталось?","sec":30,"points":2,"difficulty":"medium"}}
+{"id":4615,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:13.599Z","t":1794451813599,"type":"auto.stop","data":{"age":"junior","round":1,"question":5,"roundId":null,"reason":"manual","mode":"quiz"}}
+{"id":4616,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:15.062Z","t":1794451815062,"type":"quiz.answers","data":{"quizId":"q263-4d6e","sec":30}}
+{"id":4617,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:15.606Z","t":1794451815606,"type":"quiz.close","data":{"quizId":"q263-4d6e","answers":0}}
+{"id":4618,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:16.470Z","t":1794451816470,"type":"age.rotate","data":{"from":"junior","age":"middle","question":5,"turnSize":1}}
+{"id":4619,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:16.470Z","t":1794451816470,"type":"quiz.reset","data":{"advanced":true}}
+{"id":4620,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:17.110Z","t":1794451817110,"type":"auto.start","data":{"age":"middle","round":1,"question":5,"roundId":null,"mode":"quiz"}}
+{"id":4621,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:17.111Z","t":1794451817111,"type":"quiz.open","data":{"round":1,"question":5,"block":1,"quizId":"q264-e143","text":"Как называется человек, который покупает право использовать известный бренд и его бизнес-модель?","sec":30,"points":2,"difficulty":"medium"}}
+{"id":4622,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:17.766Z","t":1794451817766,"type":"auto.stop","data":{"age":"middle","round":1,"question":5,"roundId":null,"reason":"manual","mode":"quiz"}}
+{"id":4623,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:18.358Z","t":1794451818358,"type":"quiz.answers","data":{"quizId":"q264-e143","sec":30}}
+{"id":4624,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:19.838Z","t":1794451819838,"type":"quiz.close","data":{"quizId":"q264-e143","answers":0}}
+{"id":4625,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:20.774Z","t":1794451820774,"type":"age.rotate","data":{"from":"middle","age":"senior","question":5,"turnSize":1}}
+{"id":4626,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:20.774Z","t":1794451820774,"type":"quiz.reset","data":{"advanced":true}}
+{"id":4627,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:22.303Z","t":1794451822303,"type":"quiz.open","data":{"round":1,"question":5,"block":1,"quizId":"q265-fc1a","text":"Как называется денежный поток, остающийся после вычета операционных расходов и капитальных затрат?","sec":30,"points":2,"difficulty":"medium"}}
+{"id":4628,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:22.893Z","t":1794451822893,"type":"quiz.answers","data":{"quizId":"q265-fc1a","sec":30}}
+{"id":4629,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:23.646Z","t":1794451823646,"type":"quiz.close","data":{"quizId":"q265-fc1a","answers":0}}
+{"id":4630,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:24.374Z","t":1794451824374,"type":"age.rotate","data":{"from":"senior","age":"junior","question":6,"turnSize":1}}
+{"id":4631,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:24.374Z","t":1794451824374,"type":"quiz.reset","data":{"advanced":true}}
+{"id":4632,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:24.554Z","t":1794451824554,"type":"auto.start","data":{"age":"junior","round":1,"question":6,"roundId":null,"mode":"quiz"}}
+{"id":4633,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:24.554Z","t":1794451824554,"type":"quiz.open","data":{"round":1,"question":6,"block":1,"quizId":"q266-d990","text":"На школьной ярмарке ребята сделали плакат: «Закладки ручной работы — 100 тенге. Наш стол у входа!» Как одним словом называется такое сообщение, которое привлекает покупателей?","sec":30,"points":2,"difficulty":"medium"}}
+{"id":4634,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:24.693Z","t":1794451824693,"type":"auto.stop","data":{"age":"junior","round":1,"question":6,"roundId":null,"reason":"manual","mode":"quiz"}}
+{"id":4635,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:25.294Z","t":1794451825294,"type":"quiz.answers","data":{"quizId":"q266-d990","sec":30}}
+{"id":4636,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:25.566Z","t":1794451825566,"type":"quiz.close","data":{"quizId":"q266-d990","answers":0}}
+{"id":4637,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:25.775Z","t":1794451825775,"type":"age.rotate","data":{"from":"junior","age":"middle","question":6,"turnSize":1}}
+{"id":4638,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:25.775Z","t":1794451825775,"type":"quiz.reset","data":{"advanced":true}}
+{"id":4639,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:26.173Z","t":1794451826174,"type":"auto.start","data":{"age":"middle","round":1,"question":6,"roundId":null,"mode":"quiz"}}
+{"id":4640,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:26.174Z","t":1794451826174,"type":"quiz.open","data":{"round":1,"question":6,"block":1,"quizId":"q267-a669","text":"Как называется соперничество между компаниями за покупателей?","sec":30,"points":2,"difficulty":"medium"}}
+{"id":4641,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:26.435Z","t":1794451826435,"type":"auto.stop","data":{"age":"middle","round":1,"question":6,"roundId":null,"reason":"manual","mode":"quiz"}}
+{"id":4642,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:26.806Z","t":1794451826806,"type":"quiz.answers","data":{"quizId":"q267-a669","sec":30}}
+{"id":4643,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:26.942Z","t":1794451826942,"type":"quiz.close","data":{"quizId":"q267-a669","answers":0}}
+{"id":4644,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:28.630Z","t":1794451828630,"type":"age.rotate","data":{"from":"middle","age":"senior","question":6,"turnSize":1}}
+{"id":4645,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:28.630Z","t":1794451828630,"type":"quiz.reset","data":{"advanced":true}}
+{"id":4646,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:28.799Z","t":1794451828799,"type":"auto.start","data":{"age":"senior","round":1,"question":6,"roundId":null,"mode":"quiz"}}
+{"id":4647,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:28.799Z","t":1794451828799,"type":"quiz.open","data":{"round":1,"question":6,"block":1,"quizId":"q268-3a73","text":"Как называется ситуация, когда покупатель выбирает товар одного бренда вместо аналогов из-за устойчивого предпочтения?","sec":30,"points":2,"difficulty":"medium"}}
+{"id":4648,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:29.150Z","t":1794451829150,"type":"auto.stop","data":{"age":"senior","round":1,"question":6,"roundId":null,"reason":"manual","mode":"quiz"}}
+{"id":4649,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:29.782Z","t":1794451829782,"type":"quiz.answers","data":{"quizId":"q268-3a73","sec":30}}
+{"id":4650,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:29.975Z","t":1794451829975,"type":"quiz.close","data":{"quizId":"q268-3a73","answers":0}}
+{"id":4651,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:30.262Z","t":1794451830262,"type":"age.rotate","data":{"from":"senior","age":"junior","question":7,"turnSize":1}}
+{"id":4652,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:30.262Z","t":1794451830262,"type":"quiz.reset","data":{"advanced":true}}
+{"id":4653,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:30.430Z","t":1794451830430,"type":"auto.start","data":{"age":"junior","round":1,"question":7,"roundId":null,"mode":"quiz"}}
+{"id":4654,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:30.430Z","t":1794451830430,"type":"quiz.open","data":{"round":1,"question":7,"block":1,"quizId":"q269-4200","text":"Две одинаковые тетради продаются в разных магазинах: одна за 180 тенге, другая за 230 тенге. Сколько можно сэкономить, выбрав более дешёвую?","sec":30,"points":2,"difficulty":"medium"}}
+{"id":4655,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:30.803Z","t":1794451830803,"type":"auto.stop","data":{"age":"junior","round":1,"question":7,"roundId":null,"reason":"manual","mode":"quiz"}}
+{"id":4656,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:31.062Z","t":1794451831062,"type":"quiz.answers","data":{"quizId":"q269-4200","sec":30}}
+{"id":4657,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:31.662Z","t":1794451831662,"type":"quiz.close","data":{"quizId":"q269-4200","answers":0}}
+{"id":4658,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:31.846Z","t":1794451831846,"type":"age.rotate","data":{"from":"junior","age":"middle","question":7,"turnSize":1}}
+{"id":4659,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:31.846Z","t":1794451831846,"type":"quiz.reset","data":{"advanced":true}}
+{"id":4660,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:31.967Z","t":1794451831967,"type":"auto.start","data":{"age":"middle","round":1,"question":7,"roundId":null,"mode":"quiz"}}
+{"id":4661,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:31.967Z","t":1794451831967,"type":"quiz.open","data":{"round":1,"question":7,"block":1,"quizId":"q270-c484","text":"Предприниматель получил от продажи товаров 50 000 тенге, а на их закупку и доставку потратил 35 000 тенге. Как называется оставшаяся после вычета всех расходов сумма?","sec":30,"points":2,"difficulty":"medium"}}
+{"id":4662,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:32.262Z","t":1794451832262,"type":"auto.stop","data":{"age":"middle","round":1,"question":7,"roundId":null,"reason":"manual","mode":"quiz"}}
+{"id":4663,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:32.510Z","t":1794451832510,"type":"quiz.answers","data":{"quizId":"q270-c484","sec":30}}
+{"id":4664,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:32.657Z","t":1794451832657,"type":"quiz.close","data":{"quizId":"q270-c484","answers":0}}
+{"id":4665,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:33.014Z","t":1794451833014,"type":"age.rotate","data":{"from":"middle","age":"senior","question":7,"turnSize":1}}
+{"id":4666,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:33.014Z","t":1794451833014,"type":"quiz.reset","data":{"advanced":true}}
+{"id":4667,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:33.166Z","t":1794451833166,"type":"auto.start","data":{"age":"senior","round":1,"question":7,"roundId":null,"mode":"quiz"}}
+{"id":4668,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:33.166Z","t":1794451833166,"type":"quiz.open","data":{"round":1,"question":7,"block":1,"quizId":"q271-1474","text":"Как называется показатель, отражающий стоимость привлечения одного нового клиента?","sec":30,"points":2,"difficulty":"medium"}}
+{"id":4669,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:33.328Z","t":1794451833328,"type":"auto.stop","data":{"age":"senior","round":1,"question":7,"roundId":null,"reason":"manual","mode":"quiz"}}
+{"id":4670,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:33.786Z","t":1794451833786,"type":"quiz.answers","data":{"quizId":"q271-1474","sec":30}}
+{"id":4671,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:33.936Z","t":1794451833936,"type":"quiz.close","data":{"quizId":"q271-1474","answers":0}}
+{"id":4672,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:34.278Z","t":1794451834278,"type":"age.rotate","data":{"from":"senior","age":"junior","question":8,"turnSize":1}}
+{"id":4673,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:34.278Z","t":1794451834278,"type":"quiz.reset","data":{"advanced":true}}
+{"id":4674,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:34.526Z","t":1794451834526,"type":"auto.start","data":{"age":"junior","round":1,"question":8,"roundId":null,"mode":"quiz"}}
+{"id":4675,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:34.526Z","t":1794451834526,"type":"quiz.open","data":{"round":1,"question":8,"block":1,"quizId":"q272-21fa","text":"Один билет в кино стоит 1 200 тенге. Сколько билетов можно купить на 4 800 тенге?","sec":40,"points":3,"difficulty":"hard"}}
+{"id":4676,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:34.922Z","t":1794451834922,"type":"auto.stop","data":{"age":"junior","round":1,"question":8,"roundId":null,"reason":"manual","mode":"quiz"}}
+{"id":4677,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:35.926Z","t":1794451835926,"type":"quiz.answers","data":{"quizId":"q272-21fa","sec":40}}
+{"id":4678,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:36.070Z","t":1794451836070,"type":"quiz.close","data":{"quizId":"q272-21fa","answers":0}}
+{"id":4679,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:36.456Z","t":1794451836456,"type":"age.rotate","data":{"from":"junior","age":"middle","question":8,"turnSize":1}}
+{"id":4680,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:36.456Z","t":1794451836456,"type":"quiz.reset","data":{"advanced":true}}
+{"id":4681,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:36.625Z","t":1794451836625,"type":"auto.start","data":{"age":"middle","round":1,"question":8,"roundId":null,"mode":"quiz"}}
+{"id":4682,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:36.625Z","t":1794451836625,"type":"quiz.open","data":{"round":1,"question":8,"block":1,"quizId":"q273-dd4c","text":"На производство 60 изделий потратили 90 000 тенге. Какова себестоимость одного изделия?","sec":40,"points":3,"difficulty":"hard"}}
+{"id":4683,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:36.968Z","t":1794451836968,"type":"auto.stop","data":{"age":"middle","round":1,"question":8,"roundId":null,"reason":"manual","mode":"quiz"}}
+{"id":4684,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:37.121Z","t":1794451837121,"type":"quiz.answers","data":{"quizId":"q273-dd4c","sec":40}}
+{"id":4685,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:37.462Z","t":1794451837462,"type":"quiz.close","data":{"quizId":"q273-dd4c","answers":0}}
+{"id":4686,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:37.712Z","t":1794451837712,"type":"age.rotate","data":{"from":"middle","age":"senior","question":8,"turnSize":1}}
+{"id":4687,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:37.712Z","t":1794451837712,"type":"quiz.reset","data":{"advanced":true}}
+{"id":4688,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:37.846Z","t":1794451837846,"type":"auto.start","data":{"age":"senior","round":1,"question":8,"roundId":null,"mode":"quiz"}}
+{"id":4689,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:37.846Z","t":1794451837846,"type":"quiz.open","data":{"round":1,"question":8,"block":1,"quizId":"q274-1403","text":"Компания потратила на рекламу 120 000 тенге и получила 40 новых клиентов. Какова стоимость привлечения одного клиента?","sec":40,"points":3,"difficulty":"hard"}}
+{"id":4690,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:38.078Z","t":1794451838078,"type":"auto.stop","data":{"age":"senior","round":1,"question":8,"roundId":null,"reason":"manual","mode":"quiz"}}
+{"id":4691,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:38.393Z","t":1794451838393,"type":"quiz.answers","data":{"quizId":"q274-1403","sec":40}}
+{"id":4692,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:38.559Z","t":1794451838559,"type":"quiz.close","data":{"quizId":"q274-1403","answers":0}}
+{"id":4693,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:38.911Z","t":1794451838911,"type":"age.rotate","data":{"from":"senior","age":"junior","question":9,"turnSize":1}}
+{"id":4694,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:38.911Z","t":1794451838911,"type":"quiz.reset","data":{"advanced":true}}
+{"id":4695,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:39.230Z","t":1794451839230,"type":"auto.start","data":{"age":"junior","round":1,"question":9,"roundId":null,"mode":"quiz"}}
+{"id":4696,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:39.230Z","t":1794451839230,"type":"quiz.open","data":{"round":1,"question":9,"block":1,"quizId":"q275-9ffc","text":"В коробке 24 шоколадки. Продавец разложил их поровну в 6 подарочных наборов. Сколько шоколадок в каждом наборе?","sec":40,"points":3,"difficulty":"hard"}}
+{"id":4697,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:39.462Z","t":1794451839462,"type":"auto.stop","data":{"age":"junior","round":1,"question":9,"roundId":null,"reason":"manual","mode":"quiz"}}
+{"id":4698,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:39.750Z","t":1794451839750,"type":"quiz.answers","data":{"quizId":"q275-9ffc","sec":40}}
+{"id":4699,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:39.922Z","t":1794451839922,"type":"quiz.close","data":{"quizId":"q275-9ffc","answers":0}}
+{"id":4700,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:40.112Z","t":1794451840112,"type":"age.rotate","data":{"from":"junior","age":"middle","question":9,"turnSize":1}}
+{"id":4701,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:40.112Z","t":1794451840112,"type":"quiz.reset","data":{"advanced":true}}
+{"id":4702,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:40.258Z","t":1794451840258,"type":"auto.start","data":{"age":"middle","round":1,"question":9,"roundId":null,"mode":"quiz"}}
+{"id":4703,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:40.258Z","t":1794451840258,"type":"quiz.open","data":{"round":1,"question":9,"block":1,"quizId":"q276-953f","text":"Магазин продаёт 80 товаров по 2 500 тенге. Сколько составит выручка, если продадут 75% товаров?","sec":40,"points":3,"difficulty":"hard"}}
+{"id":4704,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:40.737Z","t":1794451840737,"type":"auto.stop","data":{"age":"middle","round":1,"question":9,"roundId":null,"reason":"manual","mode":"quiz"}}
+{"id":4705,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:41.710Z","t":1794451841710,"type":"quiz.answers","data":{"quizId":"q276-953f","sec":40}}
+{"id":4706,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:42.310Z","t":1794451842310,"type":"quiz.close","data":{"quizId":"q276-953f","answers":0}}
+{"id":4707,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:42.512Z","t":1794451842512,"type":"age.rotate","data":{"from":"middle","age":"senior","question":9,"turnSize":1}}
+{"id":4708,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:42.513Z","t":1794451842513,"type":"quiz.reset","data":{"advanced":true}}
+{"id":4709,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:44.974Z","t":1794451844974,"type":"auto.start","data":{"age":"senior","round":1,"question":9,"roundId":null,"mode":"quiz"}}
+{"id":4710,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:44.974Z","t":1794451844974,"type":"quiz.open","data":{"round":1,"question":9,"block":1,"quizId":"q277-06e5","text":"Бизнес продаёт товар за 8 000 тенге при переменных затратах 5 000 тенге. Какова маржинальная прибыль с одной единицы товара?","sec":40,"points":3,"difficulty":"hard"}}
+{"id":4711,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:45.646Z","t":1794451845646,"type":"auto.stop","data":{"age":"senior","round":1,"question":9,"roundId":null,"reason":"manual","mode":"quiz"}}
+{"id":4712,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:46.286Z","t":1794451846287,"type":"quiz.answers","data":{"quizId":"q277-06e5","sec":40}}
+{"id":4713,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:46.975Z","t":1794451846975,"type":"quiz.close","data":{"quizId":"q277-06e5","answers":0}}
+{"id":4714,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:47.223Z","t":1794451847223,"type":"age.rotate","data":{"from":"senior","age":"junior","question":10,"turnSize":1}}
+{"id":4715,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:47.223Z","t":1794451847223,"type":"quiz.reset","data":{"advanced":true}}
+{"id":4716,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:47.671Z","t":1794451847671,"type":"auto.start","data":{"age":"junior","round":1,"question":10,"roundId":null,"mode":"quiz"}}
+{"id":4717,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:47.671Z","t":1794451847671,"type":"quiz.open","data":{"round":1,"question":10,"block":1,"quizId":"q278-239a","text":"Мастер изготовил 8 открыток за 2 часа. Сколько открыток он изготовит за 5 часов при той же скорости работы?","sec":40,"points":3,"difficulty":"hard"}}
+{"id":4718,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:47.806Z","t":1794451847806,"type":"auto.stop","data":{"age":"junior","round":1,"question":10,"roundId":null,"reason":"manual","mode":"quiz"}}
+{"id":4719,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:48.342Z","t":1794451848342,"type":"quiz.answers","data":{"quizId":"q278-239a","sec":40}}
+{"id":4720,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:48.942Z","t":1794451848942,"type":"quiz.close","data":{"quizId":"q278-239a","answers":0}}
+{"id":4721,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:50.014Z","t":1794451850014,"type":"age.rotate","data":{"from":"junior","age":"middle","question":10,"turnSize":1}}
+{"id":4722,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:50.014Z","t":1794451850014,"type":"quiz.reset","data":{"advanced":true}}
+{"id":4723,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:50.423Z","t":1794451850423,"type":"auto.start","data":{"age":"middle","round":1,"question":10,"roundId":null,"mode":"quiz"}}
+{"id":4724,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:50.423Z","t":1794451850423,"type":"quiz.open","data":{"round":1,"question":10,"block":1,"quizId":"q279-09a4","text":"В первый месяц компания привлекла 120 клиентов, а во второй — 150. На сколько процентов увеличилось количество клиентов?","sec":40,"points":3,"difficulty":"hard"}}
+{"id":4725,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:50.998Z","t":1794451850998,"type":"auto.stop","data":{"age":"middle","round":1,"question":10,"roundId":null,"reason":"manual","mode":"quiz"}}
+{"id":4726,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:51.870Z","t":1794451851870,"type":"quiz.answers","data":{"quizId":"q279-09a4","sec":40}}
+{"id":4727,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:52.550Z","t":1794451852550,"type":"quiz.close","data":{"quizId":"q279-09a4","answers":0}}
+{"id":4728,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:53.215Z","t":1794451853215,"type":"age.rotate","data":{"from":"middle","age":"senior","question":10,"turnSize":1}}
+{"id":4729,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:53.215Z","t":1794451853215,"type":"quiz.reset","data":{"advanced":true}}
+{"id":4730,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:53.550Z","t":1794451853550,"type":"auto.start","data":{"age":"senior","round":1,"question":10,"roundId":null,"mode":"quiz"}}
+{"id":4731,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:53.550Z","t":1794451853550,"type":"quiz.open","data":{"round":1,"question":10,"block":1,"quizId":"q280-087f","text":"Компания получила 900 000 тенге выручки. Её валовая прибыль составила 360 000 тенге. Какова валовая рентабельность продаж в процентах?","sec":40,"points":3,"difficulty":"hard"}}
+{"id":4732,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:54.094Z","t":1794451854094,"type":"auto.stop","data":{"age":"senior","round":1,"question":10,"roundId":null,"reason":"manual","mode":"quiz"}}
+{"id":4733,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:54.774Z","t":1794451854774,"type":"quiz.answers","data":{"quizId":"q280-087f","sec":40}}
+{"id":4734,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:56.246Z","t":1794451856246,"type":"quiz.close","data":{"quizId":"q280-087f","answers":0}}
+{"id":4735,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:57.622Z","t":1794451857622,"type":"age.rotate","data":{"from":"senior","age":"junior","question":11,"turnSize":1}}
+{"id":4736,"tid":"Tb6fb6df1","ts":"2026-11-12T02:50:57.622Z","t":1794451857622,"type":"quiz.reset","data":{"advanced":true}}
+{"id":4737,"tid":"Tb6fb6df1","ts":"2026-11-12T02:51:09.470Z","t":1794451869470,"type":"auto.start","data":{"age":"junior","round":1,"question":11,"roundId":null,"mode":"quiz"}}
+{"id":4738,"tid":"Tb6fb6df1","ts":"2026-11-12T02:51:09.471Z","t":1794451869471,"type":"quiz.open","data":{"round":1,"question":11,"block":2,"quizId":"q281-5753","text":"Кто изображён на фотографии и чем он занимается?","sec":20,"points":1,"difficulty":"easy"}}
+{"id":4739,"tid":"Tb6fb6df1","ts":"2026-11-12T02:51:15.483Z","t":1794451875483,"type":"quiz.answers","data":{"quizId":"q281-5753","sec":20}}
+{"id":4740,"tid":"Tb6fb6df1","ts":"2026-11-12T02:51:21.630Z","t":1794451881630,"type":"auto.stop","data":{"age":"junior","round":1,"question":11,"roundId":null,"reason":"manual","mode":"quiz"}}
+{"id":4741,"tid":"Tb6fb6df1","ts":"2026-11-12T02:51:35.498Z","t":1794451895498,"type":"quiz.close","data":{"quizId":"q281-5753","answers":0}}
+{"id":4742,"tid":"Tb6fb6df1","ts":"2026-11-12T02:52:49.430Z","t":1794451969430,"type":"display.set","data":{"view":"splash"}}
+{"id":4743,"tid":"Tb6fb6df1","ts":"2026-11-12T02:56:22.863Z","t":1794452182863,"type":"display.set","data":{"view":"record"}}
+{"id":4744,"tid":"Tb6fb6df1","ts":"2026-11-12T02:56:53.726Z","t":1794452213726,"type":"display.set","data":{"view":"splash"}}
+{"id":4745,"tid":"Tb6fb6df1","ts":"2026-11-12T03:02:34.191Z","t":1794452554191,"type":"tournament.deactivate","data":{"name":"Финал"}}
+{"id":15,"tid":"T7b9a8669","ts":"2026-11-12T03:02:34.191Z","t":1794452554191,"type":"tournament.activate","data":{"name":"Дополнительные вопросы"}}
+{"id":16,"tid":"T7b9a8669","ts":"2026-11-12T03:04:17.129Z","t":1794452657129,"type":"questions.set","data":{"count":3,"age":"middle"}}
+{"id":17,"tid":"T7b9a8669","ts":"2026-11-12T03:04:38.079Z","t":1794452678079,"type":"age.activate","data":{"age":"senior"}}
+{"id":18,"tid":"T7b9a8669","ts":"2026-11-12T03:05:37.512Z","t":1794452737512,"type":"questions.set","data":{"count":3,"age":"senior"}}
+{"id":19,"tid":"T7b9a8669","ts":"2026-11-12T03:05:51.152Z","t":1794452751152,"type":"questions.set","data":{"count":3,"age":"senior"}}
+{"id":20,"tid":"T7b9a8669","ts":"2026-11-12T03:07:00.337Z","t":1794452820337,"type":"display.set","data":{"view":"auto"}}
+{"id":21,"tid":"T7b9a8669","ts":"2026-11-12T03:07:09.062Z","t":1794452829062,"type":"age.activate","data":{"age":"junior"}}
+{"id":22,"tid":"T7b9a8669","ts":"2026-11-12T03:07:14.256Z","t":1794452834256,"type":"display.set","data":{"view":"auto"}}
+{"id":23,"tid":"T7b9a8669","ts":"2026-11-12T03:08:10.931Z","t":1794452890931,"type":"team.update","data":{"teamId":"t946005e8","teamName":"Команда 01"}}
+{"id":24,"tid":"T7b9a8669","ts":"2026-11-12T03:08:12.104Z","t":1794452892104,"type":"team.update","data":{"teamId":"t172745e6","teamName":"Команда 03"}}
+{"id":25,"tid":"T7b9a8669","ts":"2026-11-12T03:08:14.057Z","t":1794452894057,"type":"team.update","data":{"teamId":"ta31faec7","teamName":"Команда 05"}}
+{"id":26,"tid":"T7b9a8669","ts":"2026-11-12T03:08:18.071Z","t":1794452898071,"type":"auto.start","data":{"age":"junior","round":1,"question":1,"roundId":null,"mode":"quiz"}}
+{"id":27,"tid":"T7b9a8669","ts":"2026-11-12T03:08:18.071Z","t":1794452898071,"type":"quiz.open","data":{"round":1,"question":1,"block":1,"quizId":"q1-6bd2","text":"Как называется ситуация, когда человек отказывается от покупки сегодня, чтобы сохранить деньги для более важной цели в будущем?","sec":45,"points":3,"difficulty":"hard"}}
+{"id":28,"tid":"T7b9a8669","ts":"2026-11-12T03:08:30.083Z","t":1794452910083,"type":"quiz.answers","data":{"quizId":"q1-6bd2","sec":45}}
+{"id":29,"tid":"T7b9a8669","ts":"2026-11-12T03:08:52.399Z","t":1794452932399,"type":"auto.stop","data":{"age":"junior","round":1,"question":1,"roundId":null,"reason":"manual","mode":"quiz"}}
+{"id":30,"tid":"T7b9a8669","ts":"2026-11-12T03:08:53.103Z","t":1794452933103,"type":"quiz.close","data":{"quizId":"q1-6bd2","answers":0}}
+{"id":31,"tid":"T7b9a8669","ts":"2026-11-12T03:09:02.439Z","t":1794452942439,"type":"auto.continue","data":{"age":"junior","round":1,"question":1,"roundId":null}}
+{"id":32,"tid":"T7b9a8669","ts":"2026-11-12T03:09:03.135Z","t":1794452943135,"type":"auto.stop","data":{"age":"junior","round":1,"question":1,"roundId":null,"reason":"manual","mode":"quiz"}}
+{"id":33,"tid":"T7b9a8669","ts":"2026-11-12T03:09:04.111Z","t":1794452944111,"type":"auto.continue","data":{"age":"junior","round":1,"question":1,"roundId":null}}
+{"id":34,"tid":"T7b9a8669","ts":"2026-11-12T03:09:14.124Z","t":1794452954124,"type":"age.rotate","data":{"from":"junior","age":"middle","question":1,"turnSize":1}}
+{"id":35,"tid":"T7b9a8669","ts":"2026-11-12T03:09:14.124Z","t":1794452954124,"type":"quiz.reset","data":{"advanced":true}}
+{"id":36,"tid":"T7b9a8669","ts":"2026-11-12T03:09:14.124Z","t":1794452954124,"type":"quiz.open","data":{"round":1,"question":1,"block":1,"quizId":"q2-61e4","text":"Как называется бизнес-модель, при которой предприниматель получает право работать под известным брендом и использовать готовую систему ведения бизнеса?","sec":45,"points":3,"difficulty":"hard"}}
+{"id":37,"tid":"T7b9a8669","ts":"2026-11-12T03:09:28.126Z","t":1794452968126,"type":"quiz.answers","data":{"quizId":"q2-61e4","sec":45}}
+{"id":38,"tid":"T7b9a8669","ts":"2026-11-12T03:09:53.647Z","t":1794452993647,"type":"auto.stop","data":{"age":"middle","round":1,"question":1,"roundId":null,"reason":"manual","mode":"quiz"}}
+{"id":39,"tid":"T7b9a8669","ts":"2026-11-12T03:09:54.295Z","t":1794452994295,"type":"quiz.close","data":{"quizId":"q2-61e4","answers":0}}
+{"id":40,"tid":"T7b9a8669","ts":"2026-11-12T03:09:55.783Z","t":1794452995783,"type":"auto.continue","data":{"age":"middle","round":1,"question":1,"roundId":null}}
+{"id":41,"tid":"T7b9a8669","ts":"2026-11-12T03:10:05.786Z","t":1794453005786,"type":"age.rotate","data":{"from":"middle","age":"senior","question":1,"turnSize":1}}
+{"id":42,"tid":"T7b9a8669","ts":"2026-11-12T03:10:05.786Z","t":1794453005786,"type":"quiz.reset","data":{"advanced":true}}
+{"id":43,"tid":"T7b9a8669","ts":"2026-11-12T03:10:05.787Z","t":1794453005787,"type":"quiz.open","data":{"round":1,"question":1,"block":1,"quizId":"q3-6e43","text":"Как называется экономическое явление, при котором одновременно наблюдаются высокая инфляция, застой экономики и высокий уровень безработицы?","sec":45,"points":3,"difficulty":"hard"}}
+{"id":44,"tid":"T7b9a8669","ts":"2026-11-12T03:10:18.791Z","t":1794453018791,"type":"quiz.answers","data":{"quizId":"q3-6e43","sec":45}}
+{"id":45,"tid":"T7b9a8669","ts":"2026-11-12T03:10:38.102Z","t":1794453038102,"type":"admin.login","data":{"ip":"127.0.0.1"}}
+{"id":46,"tid":"T7b9a8669","ts":"2026-11-12T03:10:38.112Z","t":1794453038112,"type":"tournament.create","data":{"id":"Tc715cc4b","name":"ТЕСТ пауза","teams":30,"copyFrom":"Tb6fb6df1"}}
+{"id":47,"tid":"T7b9a8669","ts":"2026-11-12T03:10:38.112Z","t":1794453038112,"type":"auto.stop","data":{"age":"senior","round":1,"question":1,"roundId":null,"reason":"tournament-switch","mode":"quiz"}}
+{"id":48,"tid":"T7b9a8669","ts":"2026-11-12T03:10:38.112Z","t":1794453038112,"type":"tournament.deactivate","data":{"name":"Дополнительные вопросы"}}
+{"id":1,"tid":"Tc715cc4b","ts":"2026-11-12T03:10:38.112Z","t":1794453038112,"type":"tournament.activate","data":{"name":"ТЕСТ пауза"}}
+{"id":2,"tid":"Tc715cc4b","ts":"2026-11-12T03:10:38.618Z","t":1794453038618,"type":"game.restart","data":{"age":"junior","round":1,"question":1,"roundId":null,"allAges":true}}
+{"id":3,"tid":"Tc715cc4b","ts":"2026-11-12T03:10:38.626Z","t":1794453038626,"type":"auto.start","data":{"age":"junior","round":1,"question":1,"roundId":null,"mode":"quiz"}}
+{"id":4,"tid":"Tc715cc4b","ts":"2026-11-12T03:10:38.626Z","t":1794453038626,"type":"quiz.open","data":{"round":1,"question":1,"block":1,"quizId":"q1-d674","text":"Как называется небольшая табличка рядом с товаром, на которой указана его стоимость?","sec":20,"points":1,"difficulty":"easy"}}
+{"id":5,"tid":"Tc715cc4b","ts":"2026-11-12T03:10:47.628Z","t":1794453047628,"type":"quiz.answers","data":{"quizId":"q1-d674","sec":20}}
+{"id":6,"tid":"Tc715cc4b","ts":"2026-11-12T03:10:47.755Z","t":1794453047755,"type":"quiz.close","data":{"quizId":"q1-d674","answers":0}}
+{"id":7,"tid":"Tc715cc4b","ts":"2026-11-12T03:10:50.757Z","t":1794453050757,"type":"age.rotate","data":{"from":"junior","age":"middle","question":1,"turnSize":1}}
+{"id":8,"tid":"Tc715cc4b","ts":"2026-11-12T03:10:50.757Z","t":1794453050757,"type":"quiz.reset","data":{"advanced":true}}
+{"id":9,"tid":"Tc715cc4b","ts":"2026-11-12T03:10:50.758Z","t":1794453050758,"type":"quiz.open","data":{"round":1,"question":1,"block":1,"quizId":"q2-2369","text":"Как называется лицо, которое берёт деньги в долг у банка?","sec":20,"points":1,"difficulty":"easy"}}
+{"id":10,"tid":"Tc715cc4b","ts":"2026-11-12T03:10:57.764Z","t":1794453057764,"type":"quiz.answers","data":{"quizId":"q2-2369","sec":20}}
+{"id":11,"tid":"Tc715cc4b","ts":"2026-11-12T03:11:06.984Z","t":1794453066984,"type":"admin.login","data":{"ip":"127.0.0.1"}}
+{"id":12,"tid":"Tc715cc4b","ts":"2026-11-12T03:11:06.991Z","t":1794453066991,"type":"quiz.close","data":{"quizId":"q2-2369","answers":0}}
+{"id":13,"tid":"Tc715cc4b","ts":"2026-11-12T03:11:10.007Z","t":1794453070007,"type":"age.rotate","data":{"from":"middle","age":"senior","question":1,"turnSize":1}}
+{"id":14,"tid":"Tc715cc4b","ts":"2026-11-12T03:11:10.007Z","t":1794453070007,"type":"quiz.reset","data":{"advanced":true}}
+{"id":15,"tid":"Tc715cc4b","ts":"2026-11-12T03:11:10.009Z","t":1794453070009,"type":"quiz.open","data":{"round":1,"question":1,"block":1,"quizId":"q3-d7f7","text":"Как называется денежное вознаграждение акционеру из прибыли компании?","sec":20,"points":1,"difficulty":"easy"}}
+{"id":16,"tid":"Tc715cc4b","ts":"2026-11-12T03:11:18.012Z","t":1794453078012,"type":"quiz.answers","data":{"quizId":"q3-d7f7","sec":20}}
+{"id":17,"tid":"Tc715cc4b","ts":"2026-11-12T03:11:23.438Z","t":1794453083438,"type":"admin.login","data":{"ip":"127.0.0.1"}}
+{"id":18,"tid":"Tc715cc4b","ts":"2026-11-12T03:11:23.445Z","t":1794453083445,"type":"auto.stop","data":{"age":"senior","round":1,"question":1,"roundId":null,"reason":"manual","mode":"quiz"}}
+{"id":19,"tid":"Tc715cc4b","ts":"2026-11-12T03:11:23.449Z","t":1794453083449,"type":"tournament.deactivate","data":{"name":"ТЕСТ пауза"}}
+{"id":4746,"tid":"Tb6fb6df1","ts":"2026-11-12T03:11:23.449Z","t":1794453083449,"type":"tournament.activate","data":{"name":"Финал"}}
+{"id":4747,"tid":"Tb6fb6df1","ts":"2026-11-12T03:11:23.766Z","t":1794453083767,"type":"tournament.delete","data":{"id":"Tc715cc4b","name":"ТЕСТ пауза"}}
+{"id":4748,"tid":"Tb6fb6df1","ts":"2026-11-12T03:11:23.768Z","t":1794453083768,"type":"display.set","data":{"view":"splash"}}
